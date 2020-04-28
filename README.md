@@ -5,7 +5,7 @@
 ## Installation
 
 
-Clone the dictionary using:
+Clone the repository using:
 
 step 1: git clone https://github.com/dojutsu-user/IMDB-Scraper.git
 
